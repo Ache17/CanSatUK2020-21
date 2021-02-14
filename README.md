@@ -13,3 +13,6 @@ Features :
 - buzzer 
 - servo for parachute deployment active mechanism
 - wireless communication : RFM69HCW or RFM95 ( both will work )
+
+![](bottom.jpg)
+![](top.jpg)
